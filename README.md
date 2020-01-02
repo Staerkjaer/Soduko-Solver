@@ -16,7 +16,7 @@ backtracking. The format looks like this.
       ..85...1.
       .9....4..
                              
-9 rows and 9 columns. For each blank space in the sudoku put a '.'
+9 rows and 9 columns. For each blank space in the sudoku put a .
 else type in the number. The script then turns it in to a list with 9
 sublists and starts crunching the numbers.
 *************************************************************************
