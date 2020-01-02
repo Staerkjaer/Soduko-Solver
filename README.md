@@ -3,7 +3,7 @@
 A Python soduku solver that solves all sudoku puzzles in the Puzzles dir.
 
 *************************************************************************
-The program takes an .txt file af the input and solves the sudoku using 
+The program takes an .txt file as the input and solves the sudoku using 
 backtracking. The format looks like this.
 
       8........
